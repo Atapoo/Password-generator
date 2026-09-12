@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    text-indent: 50px;
+    
+}
+
+#generate{
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+#password{
+    color: #059669;
+    margin-top: 0px;
+}
+
+p{
+    color: whitesmoke;
+    margin-bottom: 50px;
+    
+}
+
+button{
+    color: white;
+    background-color: #059669;
+    padding: 7px;
+    margin-left: 50px;
+    border-radius: 7px;
+    border: none;
+}
+div{
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+#password1, #password2{
+  background-color: #374151;
+    color: #10B981;
+    padding: 10px;
+    border-radius: 4px;
+    margin-left: 25px;
+    border: none;
+}
